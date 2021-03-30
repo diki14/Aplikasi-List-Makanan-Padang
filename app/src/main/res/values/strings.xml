@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">List Makanan Padang</string>
+    <string name="name_heroes">Nama Makanan</string>
+    <string name="lorem">lorem ipsum dolor sit amet</string>
+
+<string-array name="data_name">
+    <item>Rendang</item>
+    <item>Sate Padang</item>
+    <item>Dendeng Balado</item>
+    <item>Dendeng Batokok</item>
+    <item>Soto Padang</item>
+    <item>Gulai Itiak</item>
+    <item>Gulai Tauco</item>
+    <item>Kalio Dagiang</item>
+    <item>Cancang</item>
+    <item>Lamang Tapai</item>
+    <item>Asam Padeh</item>
+    </string-array>
+
+    <string-array name="data_description">
+    <item>Kuliner tradisional khas Padang ini sudah pernah dinobatkan sebagai makanan terlezat di dunia oleh CNN. Jadi, kelezatan dari daging sapi yang dimasak dengan campuran bumbu dan rempah ini tentu tak perlu lagi diragukan, bukan?</item>
+    <item>Sate khas Padang adalah kuliner tradisional ranah minang selanjutnya yang tak kalah populer. Terbuat dari daging sapi dan terkadang dikombinasikan dengan usus dan lidah, makanan khas Padang ini disajikan dengan siraman saus kuah sate padang kekuningan gurih yang kaya akan rempah.</item>
+    <item>Dendeng adalah daging sapi yang dikeringkan sebagai metode pengawetan. Oleh masyarakat Minang, dendeng ini diolah dengan bumbu balado pedas yang sangat cocok untuk kamu penggemar kuliner dengan cita rasa pedas.</item>
+    <item>Selain diolah dengan bumbu balado, masih ada lagi olahan dendeng khas Padang yang tak kalah lezat, yaitu dendeng Batokok. Kuliner tradisional Padang ini diolah dengan cara dipukul yang dalam bahasa setempat disebut batokok.</item>
+    <item>Hampir setiap daerah di Nusantara memiliki jenis soto-nya masing-masing, begitupun dengan Padang. Soto Padang terbuat dari irisan daging dapi dan memiliki cita rasa gurih yang khas. Tentu tak akan lengkap ke Padang tanpa mencicipi kuliner khas Padang berkuah satu ini.</item>
+    <item>Apakah Toppers penggemar kuliner bebek? Jika ya, maka gulai itiak khas Padang ini wajib kamu coba. Kaya akan bumbu, daging bebek ini tak hanya gurih tapi juga jauh dari aroam amis khas bebek.</item>
+    <item>Selain itik yang di gulai, kuliner gulai khas Padang lainnya adalah Gulai Tauco yang terbuat dari tauco yang dikombinasikan dengan berbagai rempah-rempah khas makanan Padang. Itisan buncis, tahu, dan udang juga melengkapi makanan lezat asal Padang ini.</item>
+    <item>Kalio Dagiang merupakan gulai sapi yang tak kalah lezat dari Rendang. Sekilas terlihat seperti rendang, yang membedakan dua kuliner khas Padang ini adalah kepekatan bumbu, dan juga Kalio Dagiang yang lebih berkuah.</item>
+    <item>Cancang adalah olahan daging kambing yang dipotong dadu dan dimasak dengan rempah serta santan yang memiliki cita rasa pedas. Cocok untuk kamu penggemar masakan olahan daging kambing.</item>
+    <item>Memiliki rasa manis yang khas, Lamang Tapai adalah makanan tradisional Minang yang terbuat dari beras ketan. Tekstur kenyal dan rasa manisnya cocok untuk dijadikan sebagai makanan pembuka.</item>
+    <item>Tak seperti makanan Padang pada umumnya yang menggunakan santan, ikan asam padeh sama sekali tidak menggunakan santan. Namun, masih tetap kaya akan bumbu dan rempah. Bercitarasa asam dan pedas, kuliner yang umumnya menggunakan ikan tongkol ini memberikan sensasi segar yang menggugah selera.</item>
+    </string-array>
+
+    <array name="data_photo">
+    <item>@drawable/menu1</item>
+    <item>@drawable/menu2</item>
+    <item>@drawable/menu3</item>
+    <item>@drawable/menu4</item>
+    <item>@drawable/menu5</item>
+    <item>@drawable/menu6</item>
+    <item>@drawable/menu7</item>
+    <item>@drawable/menu8</item>
+    <item>@drawable/menu9</item>
+    <item>@drawable/menu10</item>
+    <item>@drawable/menu11</item>
+    </array>
+</resources>
